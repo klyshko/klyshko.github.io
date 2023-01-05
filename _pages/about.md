@@ -25,5 +25,5 @@ redirect_from:
 
 ---
 
-<img src="/images/triathlon.jpeg" alt="md" width="140px" align="left" style="padding:10px;"> If I am not working there is a high chance that I am training for triathlon races with amazing people from the [University of Toronto Triathlon Club](https://uofttriathlon.com/). 
+<img src="/images/triathlon.jpeg" alt="md" width="140px" align="left" style="padding:10px;"> If I am not working there is a high chance that I am training for triathlon races with the amazing people from the [University of Toronto Triathlon Club](https://uofttriathlon.com/). 
 
