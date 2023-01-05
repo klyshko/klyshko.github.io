@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 **Studying protein dynamics using molecular dynamics sumulations.** 
-<img src="/images/crystal.jpg" alt="idp" width="180px" align="left" style="padding:10px;"> <img src="/images/ezgif-3-e1da36ca2200.gif" alt="md" width="180px" align="left" style="padding:10px;"> This approach is sometimes referred to as a “computational microscope”; equations of motion are numerically integrated for every atom based on an empirical potential energy function. Simulations produce long time-resolved trajectories of atomic coordinates and provide a representation of a given molecule’s structural ensemble. <img src="/images/idps.png" alt="idp" width="150px" align="right" style="padding:10px;"> 
+<img src="/images/crystal.jpg" alt="idp" width="180px" align="left" style="padding:10px;"><img src="/images/ezgif-3-e1da36ca2200.gif" alt="md" width="180px" align="left" style="padding:10px;"> 
+This approach is sometimes referred to as a “computational microscope”; equations of motion are numerically integrated for every atom based on an empirical potential energy function. Simulations produce long time-resolved trajectories of atomic coordinates and provide a representation of a given molecule’s structural ensemble. <img src="/images/idps.png" alt="idp" width="150px" align="right" style="padding:10px;"> 
 In my work, I study a full spectrum of the dynamic disorder observed in proteins: from folded crystalline proteins to intrinsically disordered proteins (IDPs) in solution. Compared to folded proteins, IDPs lack a stable three-dimensional structure, and instead they dynamically interchange between a large ensemble of conformational states corresponding to shallow minima of the free energy landscape. 
 
 ---
