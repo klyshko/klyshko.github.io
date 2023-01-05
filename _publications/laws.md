@@ -2,7 +2,7 @@
 title: "LAWS: Local Alignment for Water Sites — tracking ordered water in simulations"
 collection: publications
 permalink: /publication/laws
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Computational method to track ordered water in simulations'
 date: 2022-09-16
 venue: 'Biophysical Journal'
 paperurl: 'files/paper1.pdf'
