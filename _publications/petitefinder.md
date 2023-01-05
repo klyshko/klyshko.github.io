@@ -1,5 +1,5 @@
 ---
-title: "petiteFinder: An automated computer vision tool to compute Petite colony frequencies in baker's yeast"
+title: "petiteFinder: An automated computer vision tool to compute Petite colony frequencies in bakers yeast"
 collection: publications
 permalink: /publication/petitefinder
 excerpt: 'A computer vision tool to detect baker yeast colonies'
