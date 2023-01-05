@@ -1,5 +1,5 @@
 ---
-title: "Microtubule assembly and disassembly dynamics model: Exploring dynamic instability and identifying features of Microtubules’ Growth, Catastrophe, Shortening, and Rescue"
+title: "MADDY model: Exploring dynamic instability and identifying features of Microtubules’ Growth, Catastrophe, Shortening, and Rescue"
 collection: publications
 permalink: /publication/maddy
 excerpt: 'The paper with a computational model of microtubule dynamics'
