@@ -23,21 +23,12 @@ Work experience
 * Research and Teaching Assistant, [**University of Massachusetts Lowell**](https://faculty.uml.edu//vbarsegov/); Lowell, MA, USA — Sept 2015 – May 2017
 * Research Assistant, [**Moscow Institute of Physics and Technology**](https://mipt.ru/english/research/labs/computer-and-mathematical-modelling-of-biological-systems-lab); Moscow, Russia — Sept 2014 – May 2015
 
-  
-Skills
-======
-* HPC
-* Software Development
-* Machine Learning
 
-<!--- 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
--->
-
 
 Talks and Posters
 ======
