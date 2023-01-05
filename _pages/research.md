@@ -7,9 +7,9 @@ redirect_from:
   - "/research.html"
 ---
 
-**Studying protein dynamics in crystals using molecular dynamics sumulations.** 
+**Studying protein dynamics using molecular dynamics sumulations.** 
 <img src="/images/idps.png" alt="idp" width="150px" align="right" style="padding:10px;"> 
-Intrinsically disordered proteins (IDPs) make up a significant fraction of the proteins encoded in genomes. IDPs lack a single stable three-dimensional structure, and instead they dynamically interchange between a large ensemble of conformational states corresponding to shallow minima of the free energy landscape. <img src="/images/ezgif-3-e1da36ca2200.gif" alt="md" width="250px" align="left" style="padding:10px;">  Computational methods such as molecular dynamics (MD) simulations can be applied to IDP systems and provide the necessary data needed for the structural characterization of IDPs. This approach  is sometimes referred to as a “computational microscope”; equations of motion are numerically integrated for every atom based  on an empirical potential energy function. As a result, MD simulations produce long time-resolved trajectories of atomic coordinates and provide a representation of the sampling of a given molecule’s structural ensemble. [Video](https://drive.google.com/open?id=1iJGSUAr8IGJ_qNxyP_ipK1Keyc2gJZEW)
+This approach  is sometimes referred to as a “computational microscope”; equations of motion are numerically integrated for every atom based on an empirical potential energy function. As a result, MD simulations produce long time-resolved trajectories of atomic coordinates and provide a representation of the sampling of a given molecule’s structural ensemble. Intrinsically disordered proteins (IDPs) make up a significant fraction of the proteins encoded in genomes. IDPs lack a single stable three-dimensional structure, and instead they dynamically interchange between a large ensemble of conformational states corresponding to shallow minima of the free energy landscape. <img src="/images/ezgif-3-e1da36ca2200.gif" alt="md" width="250px" align="left" style="padding:10px;">   
 
 ---
 **Defining conformational states of proteins using dimensionality reduction and clustering algorithms.**
