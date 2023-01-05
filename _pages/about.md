@@ -21,9 +21,9 @@ redirect_from:
 ---
 
 
-<img src="/images/teach.jpg" alt="md" width="150px" align="left" style="padding:10px;"> In addition to my research, I am passionate about teaching. Currently, I am a course instructor for [Computational Modeling in Physics](https://utm.calendar.utoronto.ca/course/phy426h5). Over the years, I have had the opportunity to teach various university courses in physics, mathematics, programming, and chemistry as a teaching assistant. [Find my selected tutorials](/teaching/). 
+<img src="/images/teach.jpeg" alt="md" width="150px" align="left" style="padding:10px;"> In addition to my research, I am passionate about teaching. Currently, I am a course instructor for [Computational Modeling in Physics](https://utm.calendar.utoronto.ca/course/phy426h5). Over the years, I have had the opportunity to teach various university courses in physics, mathematics, programming, and chemistry as a teaching assistant. [Find my selected tutorials](/teaching/). 
 
 ---
 
-<img src="/images/triathlon.jpg" alt="md" width="150px" align="left" style="padding:10px;"> If I am not working, there is a high chance that I am training for triathlon races with amazing people from the [University of Toronto Triathlon Club](https://uofttriathlon.com/). 
+<img src="/images/triathlon.jpeg" alt="md" width="150px" align="left" style="padding:10px;"> If I am not working, there is a high chance that I am training for triathlon races with amazing people from the [University of Toronto Triathlon Club](https://uofttriathlon.com/). 
 
