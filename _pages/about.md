@@ -12,6 +12,7 @@ redirect_from:
 <img src="/images/ezgif-3-e1da36ca2200.gif" alt="md" width="150px" align="left" style="padding:10px;"> I am a PhD candidate in [Dr. Sarah Rauscher's Lab](https://www.utm.utoronto.ca/cps/faculty-staff/rauscher-sarah) at the University of Toronto, where I study computational biophysics using machine learning, statistics, and high performance computing. [More about research](/research/).
 
 
+
 ---
 
 
@@ -25,5 +26,5 @@ redirect_from:
 
 ---
 
-<img src="/images/triathlon.jpeg" alt="md" width="150px" align="left" style="padding:10px;"> If I am not working, there is a high chance that I am training for triathlon races with amazing people from the [University of Toronto Triathlon Club](https://uofttriathlon.com/). 
+<img src="/images/triathlon.jpeg" alt="md" width="150px" align="left" style="padding:10px;"> If I am not working there is a high chance that I am training for triathlon races with amazing people from the [University of Toronto Triathlon Club](https://uofttriathlon.com/). 
 
