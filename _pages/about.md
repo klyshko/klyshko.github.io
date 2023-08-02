@@ -15,7 +15,7 @@ redirect_from:
 ---
 
 
-<img src="/images/logo1.png" alt="md" width="140px" align="left" style="padding:10px;"> As a member of the [Humans Leaning Machine Learning](https://hlml-toronto.github.io) (HLML) group at the Department of Physics at the University of Toronto, I spend my Fridays studying interesting algorithms and some weekends participating in hackathons and Kaggle contests.
+<img src="/images/logo1.png" alt="md" width="140px" align="left" style="padding:10px;"> As a member of the [Humans Learning Machine Learning](https://hlml-toronto.github.io) (HLML) group at the Department of Physics at the University of Toronto, I spend my Fridays studying interesting algorithms and some weekends participating in hackathons and Kaggle contests.
 
 
 ---
