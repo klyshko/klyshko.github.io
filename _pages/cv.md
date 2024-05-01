@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Applied Mathematics and Physics, Moscow Institute of Physics and Technology, 2014
 * M.S. in Computational Chemistry, University of Massachusetts, 2017
-* Ph.D. in Computational Biophysics, University of Toronto, 2023 (expected)
+* Ph.D. in Computational Biophysics, University of Toronto, 2024 (expected)
 
 Work experience
 ======
