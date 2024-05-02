@@ -6,7 +6,7 @@ excerpt: 'Characterizing protein dynamics in the crystalline state'
 date: 2024-04-01
 venue: 'Nature Communications'
 paperurl: '/files/efx.pdf'
-citation: 'Klyshko, E., Kim, J.SH., McGough, L. et al. Functional protein dynamics in a crystal. Nature Communications 15, 3244 (2024)'
+citation: 'Klyshko E, Kim JS-H, McGough L, Valeeva V, Lee E, Ranganathan R, Rauscher S (2024) Functional protein dynamics in a crystal. Nature Communications'
 ---
 
 DOI: [https://doi.org/10.1038/s41467-024-47473-4](https://doi.org/10.1038/s41467-024-47473-4)
