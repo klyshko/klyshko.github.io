@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Mathematics and Physics, Moscow Institute of Physics and Technology, 2014
+* Ph.D. in Computational Biophysics, University of Toronto, 2024
 * M.S. in Computational Chemistry, University of Massachusetts, 2017
-* Ph.D. in Computational Biophysics, University of Toronto, 2024 (expected)
+* B.S. in Applied Mathematics and Physics, Moscow Institute of Physics and Technology, 2014
 
 Work experience
 ======
-* Research and Teaching Assistant, [**University of Toronto**](https://rauscher-group.physics.utoronto.ca/); Toronto, ON, Canada — Sept 2017 – Present
+* Graduate Research Assistant, [**University of Toronto**](https://rauscher-group.physics.utoronto.ca/); Toronto, ON, Canada — Sept 2017 – Present
 * Junior AI Researcher, [**Denti.AI**](https://www.denti.ai/); Toronto, ON, Canada — Apr 2020 – May 2021
 * AI Intern, [**Menten.AI**](https://www.menten.ai/); Toronto, ON, Canada — Dec 2019 – Dec 2020
-* Research and Teaching Assistant, [**University of Massachusetts Lowell**](https://faculty.uml.edu//vbarsegov/); Lowell, MA, USA — Sept 2015 – May 2017
+* Graduate Research and Teaching Assistant, [**University of Massachusetts Lowell**](https://faculty.uml.edu//vbarsegov/); Lowell, MA, USA — Sept 2015 – May 2017
 * Research Assistant, [**Moscow Institute of Physics and Technology**](https://mipt.ru/english/research/labs/computer-and-mathematical-modelling-of-biological-systems-lab); Moscow, Russia — Sept 2014 – May 2015
 
 
