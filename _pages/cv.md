@@ -24,17 +24,27 @@ Education
 Work experience
 ======
 * Graduate Research Assistant, [**University of Toronto**](https://rauscher-group.physics.utoronto.ca/); Toronto, ON, Canada — Sept 2017 – Present
-    - Carried out molecular simulations to model complex protein systems (enzymes, cancer proteins), contributing to understanding functional protein dynamics
-		- Developed computational and ML pipelines for parallel analysis of protein structural data, resulting in peer-reviewed publications.
-		- Supervised and guided undergraduate and graduate-level research projects, focusing on ML applications in computational biology.
-		- Developed computer vision tools for automated analysis of experimental assays (yeast colony images).
-		- Delivered conference presentations and university lectures on advanced computational physics.
-		- Coordinated cross-disciplinary research initiatives with experimental scientists from UChicago, Harvard, and UPenn.
+	- Carried out molecular simulations to model complex protein systems (enzymes, cancer proteins), contributing to understanding functional protein dynamics
+	- Developed computational and ML pipelines for parallel analysis of protein structural data, resulting in peer-reviewed publications.
+	- Supervised and guided undergraduate and graduate-level research projects, focusing on ML applications in computational biology.
+	- Developed computer vision tools for automated analysis of experimental assays (yeast colony images).
+	- Delivered conference presentations and university lectures on advanced computational physics.
+	- Coordinated cross-disciplinary research initiatives with experimental scientists from UChicago, Harvard, and UPenn.
 * Junior AI Researcher, [**Denti.AI**](https://www.denti.ai/); Toronto, ON, Canada — Apr 2020 – May 2021
+  	- Designed computer vision models for automated diagnostics from X-ray dental images used in production.
+	- Developed heuristic algorithms to improve AI predictions.
+	- Implemented algorithms for projecting 3D computer tomography scans to 2D panoramic images.
 * AI Intern, [**Menten.AI**](https://www.menten.ai/); Toronto, ON, Canada — Dec 2019 – Dec 2020
+  	- Pioneered the development of an automated pipeline for drug target identification, successfully integrating it with large-scale protein structure databases.
+	- Implemented a GPU-accelerated quantum-inspired combinatorial optimization solver improving peptide design efficiency.
+	- Conducted comprehensive benchmarking of classical vs. quantum combinatorial optimization methods for strategic decisions on technology adoption.
 * Graduate Research and Teaching Assistant, [**University of Massachusetts Lowell**](https://faculty.uml.edu//vbarsegov/); Lowell, MA, USA — Sept 2015 – May 2017
+  	- Developed a CUDA-accelerated scientific software package for simulating microtubule dynamics, a critical chemotherapeutic target (peer-reviewed publication).
+	- Conducted multi-scale computer modeling of cellular division processes, providing insights into error correction mechanisms during mitosis.
+	- Led the deployment and maintenance of the GPU-cluster at the Massachusetts Green High Performance Computing Center, ensuring high availability and performance.
 * Research Assistant, [**Moscow Institute of Physics and Technology**](https://mipt.ru/english/research/labs/computer-and-mathematical-modelling-of-biological-systems-lab); Moscow, Russia — Sept 2014 – May 2015
-
+	- Developed multiscale computational models of fibrin oligomers
+ 	- Bioinformatics analysis of protein database to extract clusters of protein contacts 
 
 Publications
 ======
