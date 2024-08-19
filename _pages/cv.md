@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-*Computational Biophysicist | Biotech R&D | AI/ML Specialist*
+**Computational Biophysicist | Biotech R&D | AI/ML Specialist**
 
 As a Ph.D. in computational biophysics with a strong industry background (2+ years) in Biotech and Data Science, I am committed to translating complex research into practical solutions that advance scientific and medical communities. Along with strong quantitative skills, I have extensive experience in data visualization, scientific communication and mentoring.
 
