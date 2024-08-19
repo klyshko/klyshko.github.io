@@ -7,6 +7,7 @@ redirect_from:
   - "/research.html"
 ---
 **Research focus**
+
 On my journey to unravel the mysteries of how proteins function and regulate their activities, I’ve focused on a critical yet often overlooked component — water. Water is not just a passive bystander in the world of proteins; water molecules form hydration shells around proteins and even integrate into their interiors, influencing everything from protein stability to functional behaviour. In my research, I’ve developed advanced computational methods that, when combined with experimental techniques like time-resolved X-ray crystallography and NMR spectroscopy, offer a detailed view of how proteins and water molecules interact.
 
 1. A major highlight of my work is a novel computational approach that accurately tracks how proteins interact with water. By integrating data from X-ray crystallography, I’ve been able to demonstrate the significance of specific water sites that persist in simulations, whether the protein is in a crystal or in solution. This insight generalizes a method for studying how water helps maintain protein structure and function.
