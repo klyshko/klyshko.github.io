@@ -8,16 +8,13 @@ redirect_from:
 ---
 **Research focus**
 
-On my journey to unravel the mysteries of how proteins function and regulate their activities, I’ve focused on a critical yet often overlooked component — water. Water is not just a passive bystander in the world of proteins; water molecules form hydration shells around proteins and even integrate into their interiors, influencing everything from protein stability to functional behaviour. In my research, I’ve developed advanced computational methods that, when combined with experimental techniques like time-resolved X-ray crystallography and NMR spectroscopy, offer a detailed view of how proteins and water molecules interact.
+On my journey to unravel the mysteries of how proteins function and regulate their activities, I’ve focused on a critical yet often overlooked component — water. Water is not just a passive bystander in the world of proteins; water molecules form hydration shells around proteins and even integrate into their interiors, influencing everything from protein stability to functional behaviour. In my research, I’ve developed advanced computational methods that, when combined with experimental techniques like time-resolved X-ray crystallography and NMR spectroscopy, offer a detailed view of how proteins and water molecules interact. <img src="/images/water_allostery.png" alt="water allostery" width="400px" align="left" style="padding:10px;">
 
 1. A major highlight of my work is a novel computational approach that accurately tracks how proteins interact with water. By integrating data from X-ray crystallography, I’ve been able to demonstrate the significance of specific water sites that persist in simulations, whether the protein is in a crystal or in solution. This insight generalizes a method for studying how water helps maintain protein structure and function.
 
-2. Further, I’ve explored how the environment — whether a crystal or a solution — affects a protein’s conformational landscape. My findings indicate that the structural changes observed in a crystal mirror those that occur when a protein interacts with a ligand in solution. This has profound implications for how we interpret time-resolved crystallographic data and understand protein function in its native environment. <img src="/images/crystal.jpg" alt="idp" width="180px" align="right" style="padding:10px;">
-
+2. Further, I’ve explored how the environment — whether a crystal or a solution — affects a protein’s conformational landscape. My findings indicate that the structural changes observed in a crystal mirror those that occur when a protein interacts with a ligand in solution. This has profound implications for how we interpret time-resolved crystallographic data and understand protein function in its native environment. 
 
 3. Finally, I extended my computational methods to investigate how water influences protein allostery, a process where distant sites within a protein communicate and regulate each other’s activity. My research on the fluoroacetate dehalogenase enzyme revealed that water networks within the protein can stabilize and even enhance allosteric signalling, especially when water ($H_2O$) is replaced with its heavy counterpart, $D_2O$. This discovery opens up exciting possibilities for protein engineering by manipulating water-mediated communication pathways.
-
-<img src="/images/water_allostery.png" alt="water allostery" width="500px" align="right" style="padding:10px;">
 
 In essence, my research blends simulations with experimental data to paint a comprehensive picture of the vital role water plays in the life of proteins, contributing to a deeper understanding of biological processes at the molecular level.
 
