@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+As a Ph.D. in computational biophysics with a strong industry background (2+ years) in Biotech and Data Science, I am committed to translating complex research into practical solutions that advance scientific and medical communities. Along with strong quantitative skills, I have extensive experience in data visualization, scientific communication and mentoring.
+
+My doctoral research centred on exploring protein dynamics and allostery using molecular simulations and advanced statistical techniques. During my academic career, I developed novel simulation methods and analysis tools for protein structural data, with direct applications in protein engineering for the biotech industry. 
+
+In addition to my academic pursuits, I have made significant contributions in the biotech sector, where I worked on developing innovative protein design methods, leveraging classical, quantum, and quantum-inspired approaches. I also honed my expertise in computer vision and data science through my work in a startup focusing on healthcare applications, particularly dental diagnostics.
+
 Education
 ======
 * Ph.D. in Computational Biophysics, University of Toronto, 2024
@@ -18,6 +24,12 @@ Education
 Work experience
 ======
 * Graduate Research Assistant, [**University of Toronto**](https://rauscher-group.physics.utoronto.ca/); Toronto, ON, Canada — Sept 2017 – Present
+    - Carried out molecular simulations to model complex protein systems (enzymes, cancer proteins), contributing to understanding functional protein dynamics
+		- Developed computational and ML pipelines for parallel analysis of protein structural data, resulting in peer-reviewed publications.
+		- Supervised and guided undergraduate and graduate-level research projects, focusing on ML applications in computational biology.
+		- Developed computer vision tools for automated analysis of experimental assays (yeast colony images).
+		- Delivered conference presentations and university lectures on advanced computational physics.
+		- Coordinated cross-disciplinary research initiatives with experimental scientists from UChicago, Harvard, and UPenn.
 * Junior AI Researcher, [**Denti.AI**](https://www.denti.ai/); Toronto, ON, Canada — Apr 2020 – May 2021
 * AI Intern, [**Menten.AI**](https://www.menten.ai/); Toronto, ON, Canada — Dec 2019 – Dec 2020
 * Graduate Research and Teaching Assistant, [**University of Massachusetts Lowell**](https://faculty.uml.edu//vbarsegov/); Lowell, MA, USA — Sept 2015 – May 2017
