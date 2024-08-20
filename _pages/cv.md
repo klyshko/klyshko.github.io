@@ -11,7 +11,7 @@ redirect_from:
 
 **Computational Biophysicist, Biotech R&D, AI/ML Specialist**
 
-As a Ph.D. in computational biophysics with a strong industry background (2+ years) in Biotech and Data Science, I am committed to translating complex research into practical solutions that advance scientific and medical communities. Along with strong quantitative skills, I have extensive experience in data visualization, scientific communication and mentoring.
+As a Ph.D. in computational biophysics with a strong industry background (7+ years in total) in Biotech and Data Science, I am committed to translating complex research into practical solutions that advance scientific and medical communities. Along with strong quantitative skills, I have extensive experience in data visualization, scientific communication and mentoring.
 
 My doctoral research centred on exploring protein dynamics and allostery using molecular simulations and advanced statistical techniques. During my academic career, I developed novel simulation methods and analysis tools for protein structural data, with direct applications in protein engineering for the biotech industry. 
 
@@ -28,8 +28,8 @@ Education
 * **Graduate Research Assistant**, [University of Toronto](https://rauscher-group.physics.utoronto.ca/); Toronto, ON, Canada — Sept 2017 – Present
     - Carried out molecular simulations to model complex protein systems (enzymes, cancer proteins), contributing to understanding functional protein dynamics.
     - Developed computational and ML pipelines for parallel analysis of protein structural data, resulting in peer-reviewed publications.
+    - Designed computer vision tools for the automated analysis of lab experiments, enhancing the accuracy and throughput.
     - Supervised and guided undergraduate and graduate-level research projects, focusing on ML applications in computational biology.
-    - Developed computer vision tools for automated analysis of experimental assays (yeast colony images).
     - Delivered conference presentations and university lectures on advanced computational physics.
     - Coordinated cross-disciplinary research initiatives with experimental scientists from UChicago, Harvard, and UPenn.
 
