@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Computational Biophysicist** | **Biotech R&D** | **AI/ML Specialist**
+**Computational Biophysicist, Biotech R&D, AI/ML Specialist**
 
 As a Ph.D. in computational biophysics with a strong industry background (2+ years) in Biotech and Data Science, I am committed to translating complex research into practical solutions that advance scientific and medical communities. Along with strong quantitative skills, I have extensive experience in data visualization, scientific communication and mentoring.
 
@@ -33,22 +33,18 @@ Work experience
 	- Delivered conference presentations and university lectures on advanced computational physics.
 	- Coordinated cross-disciplinary research initiatives with experimental scientists from UChicago, Harvard, and UPenn.
 * Junior AI Researcher, [**Denti.AI**](https://www.denti.ai/); Toronto, ON, Canada — Apr 2020 – May 2021
-  
   	- Designed computer vision models for automated diagnostics from X-ray dental images used in production.
 	- Developed heuristic algorithms to improve AI predictions.
 	- Implemented algorithms for projecting 3D computer tomography scans to 2D panoramic images.
 * AI Intern, [**Menten.AI**](https://www.menten.ai/); Toronto, ON, Canada — Dec 2019 – Dec 2020
-  
   	- Pioneered the development of an automated pipeline for drug target identification, successfully integrating it with large-scale protein structure databases.
 	- Implemented a GPU-accelerated quantum-inspired combinatorial optimization solver improving peptide design efficiency.
 	- Conducted comprehensive benchmarking of classical vs. quantum combinatorial optimization methods for strategic decisions on technology adoption.
 * Graduate Research and Teaching Assistant, [**University of Massachusetts Lowell**](https://faculty.uml.edu//vbarsegov/); Lowell, MA, USA — Sept 2015 – May 2017
-  
   	- Developed a CUDA-accelerated scientific software package for simulating microtubule dynamics, a critical chemotherapeutic target (peer-reviewed publication).
 	- Conducted multi-scale computer modeling of cellular division processes, providing insights into error correction mechanisms during mitosis.
 	- Led the deployment and maintenance of the GPU-cluster at the Massachusetts Green High Performance Computing Center, ensuring high availability and performance.
 * Research Assistant, [**Moscow Institute of Physics and Technology**](https://mipt.ru/english/research/labs/computer-and-mathematical-modelling-of-biological-systems-lab); Moscow, Russia — Sept 2014 – May 2015
-  
 	- Developed multiscale computational models of fibrin oligomers
  	- Bioinformatics analysis of protein database to extract clusters of protein contacts
  
