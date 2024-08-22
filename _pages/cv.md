@@ -11,11 +11,11 @@ redirect_from:
 
 **Computational Biophysicist, Biotech R&D, AI/ML Specialist**
 
-As a Ph.D. in computational biophysics with a strong industry background (7+ years in total) in Biotech and Data Science, I am committed to translating complex research into practical solutions that advance scientific and medical communities. Along with strong quantitative skills, I have extensive experience in data visualization, scientific communication and mentoring.
+As a Ph.D. in computational biophysics with a strong industry background (2+ years of experience) in Biotech and Data Science, I am committed to translating complex research into practical solutions that advance scientific and medical communities. Along with strong quantitative skills, I have extensive experience in data visualization, scientific communication and mentoring.
 
 My doctoral research centred on exploring protein dynamics and allostery using molecular simulations and advanced statistical techniques. During my academic career, I developed novel simulation methods and analysis tools for protein structural data, with direct applications in protein engineering for the biotech industry. 
 
-In addition to my academic pursuits, I have made significant contributions in the biotech sector, where I worked on developing innovative protein design methods, leveraging classical, quantum, and quantum-inspired approaches. I also honed my expertise in computer vision and data science through my work in a startup focusing on healthcare applications, particularly dental diagnostics.
+In addition to my academic pursuits, I have made significant contributions in the biotech sector, where I worked on developing innovative protein design methods, leveraging classical, quantum, and quantum-inspired approaches. I also honed my computer vision and data science expertise through my work in a startup focusing on healthcare applications, particularly dental diagnostics.
 
 Education
 ======
