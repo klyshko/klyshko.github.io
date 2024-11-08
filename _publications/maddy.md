@@ -9,7 +9,7 @@ paperurl: '/files/maddy.pdf'
 citation: 'Evgenii Kliuchnikov, Eugene Klyshko, Maria S. Kelly, Artem Zhmurov, Ruxandra I. Dima, Kenneth A. Marx, Valeri Barsegov (2022). &quot;Microtubule assembly and disassembly dynamics model: Exploring dynamic instability and identifying features of Microtubules’ Growth, Catastrophe, Shortening, and Rescue.&quot; <i>Computational and Structural Biotechnology Journal</i>. 20(1).'
 ---
 
-DOI: (https://doi.org/10.1016/j.csbj.2022.01.028)[https://doi.org/10.1016/j.csbj.2022.01.028]
+DOI: [https://doi.org/10.1016/j.csbj.2022.01.028](https://doi.org/10.1016/j.csbj.2022.01.028)
 
 Download PDF: [Download paper here](/files/maddy.pdf)
 
