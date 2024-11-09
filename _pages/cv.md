@@ -11,14 +11,14 @@ redirect_from:
 
 **Computational Biophysicist, Biotech R&D, AI/ML Specialist**
 
-As a Ph.D. in physics with a strong industry background (9+ years of experience) in Biotech and Data Science, I’m  seeking for opportunities to apply my expertise in computational modeling and machine learning to tackle complex problems, particularly in science, technology and healthcare. I’m passionate about contributing to projects that benefit society. Along with strong quantitative skills, I have extensive experience in data visualization, scientific communication and mentoring
+As a Ph.D. in Physics with a strong industry background in biotech and data science (9+ years of combined experience), I’m seeking opportunities to apply my expertise to tackle complex problems, particularly in science, technology, and healthcare. In addition to strong quantitative skills, I have extensive experience in data visualization, scientific communication, and mentoring. I’m passionate about contributing to projects that have a positive impact on society.
 
 <!--As a Ph.D. in computational biophysics with a strong industry background (2+ years of experience) in Biotech and Data Science, I am committed to translating complex research into practical solutions that advance scientific and medical communities. Along with strong quantitative skills, I have extensive experience in data visualization, scientific communication and mentoring. My doctoral research centred on exploring protein dynamics and allostery using molecular simulations and advanced statistical techniques. During my academic career, I developed novel simulation methods and analysis tools for protein structural data, with direct applications in protein engineering for the biotech industry. In addition to my academic pursuits, I have made significant contributions in the biotech sector, where I worked on developing innovative protein design methods, leveraging classical, quantum, and quantum-inspired approaches. I also honed my computer vision and data science expertise through my work in a startup focusing on healthcare applications, particularly dental diagnostics.-->
 
 Education
 ======
 * Ph.D. in Computational Biophysics, **University of Toronto**, 2024
-* M.S. in Computational Chemistry, **University of Massachusetts**, 2017
+* M.Sc. in Computational Chemistry, **University of Massachusetts**, 2017
 * B.S. in Applied Mathematics and Physics, **Moscow Institute of Physics and Technology**, 2014
 
 ## Work Experience
@@ -36,7 +36,7 @@ Education
     - Developed heuristic algorithms to improve AI predictions.
     - Implemented algorithms for projecting 3D computer tomography scans to 2D panoramic images.
 
-* **AI Intern**, [Menten.AI](https://www.menten.ai/); Toronto, ON, Canada — Dec 2019 – Dec 2020
+* **Intern Scientist**, [Menten.AI](https://www.menten.ai/); Toronto, ON, Canada — Dec 2019 – Dec 2020
     - Pioneered the development of an automated pipeline for drug target identification, successfully integrating it with large-scale protein structure databases.
     - Implemented a GPU-accelerated quantum-inspired combinatorial optimization solver improving peptide design efficiency.
     - Conducted comprehensive benchmarking of classical vs. quantum combinatorial optimization methods for strategic decisions on technology adoption.
