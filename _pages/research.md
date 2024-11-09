@@ -8,9 +8,7 @@ redirect_from:
 ---
 **Thesis focus**
 
-On my PhD journey to unravel the mysteries of how proteins function and regulate their activities, I’ve focused on a critical yet often overlooked component — **water**. Water is not just a passive bystander in the world of proteins; water molecules form hydration shells around proteins and even integrate into their interiors, influencing everything from protein stability to functional behaviour. In my research, I’ve developed advanced computational methods that demonstrate the critical role of water in protein allostery, which is supported by experimental techniques like time-resolved X-ray crystallography and NMR spectroscopy. 
-
-<img src="/images/water_allostery.png" alt="water allostery" width="400px" align="center" style="padding:10px;">
+On my PhD journey to unravel the mysteries of how proteins function and regulate their activities, I’ve focused on a critical yet often overlooked component — **water**. Water is not just a passive bystander in the world of proteins; water molecules form hydration shells around proteins and even integrate into their interiors, influencing everything from protein stability to functional behaviour. In my research, I’ve developed advanced computational methods that demonstrate the critical role of water in protein allostery, which is supported by experimental techniques like time-resolved X-ray crystallography and NMR spectroscopy. <img src="/images/water_allostery.png" alt="water allostery" width="400px" align="left" style="padding:10px;">
 
 1. A major highlight of my work is a novel computational approach that accurately tracks how proteins interact with water. By integrating data from X-ray crystallography, I’ve been able to demonstrate the significance of specific water sites that persist in simulations, whether the protein is in a crystal or in solution. This insight generalizes a method for studying how water networks help maintain protein structure and function in native cellular environments. [Details](/files/laws.pdf).
 
