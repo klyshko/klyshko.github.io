@@ -23,7 +23,7 @@ Education
 
 ## Work Experience
 
-* **Graduate Research Assistant**, [University of Toronto](https://rauscher-group.physics.utoronto.ca/); Toronto, ON, Canada — Sept 2017 – Present
+* **Graduate Research Assistant**, [University of Toronto](https://rauscher-group.physics.utoronto.ca/); Toronto, ON, Canada — Sept 2017 – Sept 2024
     - Carried out molecular simulations to model complex protein systems (enzymes, cancer proteins), contributing to understanding functional protein dynamics.
     - Developed computational and ML pipelines for parallel analysis of protein structural data, resulting in peer-reviewed publications.
     - Designed computer vision tools for the automated analysis of lab experiments, enhancing the accuracy and throughput.
@@ -43,6 +43,7 @@ Education
 
 * **Graduate Research and Teaching Assistant**, [University of Massachusetts Lowell](https://faculty.uml.edu//vbarsegov/); Lowell, MA, USA — Sept 2015 – May 2017
     - Developed a CUDA-accelerated scientific software package for simulating microtubule dynamics, a critical chemotherapeutic target (peer-reviewed publication).
+    - Carried out ML analysis of the simulated data to find the critical parameters of the dynamic process.
     - Conducted multi-scale computer modeling of cellular division processes, providing insights into error correction mechanisms during mitosis.
     - Led the deployment and maintenance of the GPU-cluster at the Massachusetts Green High Performance Computing Center, ensuring high availability and performance.
 
