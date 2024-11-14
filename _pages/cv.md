@@ -18,7 +18,7 @@ As a Ph.D. in Physics with a strong industry background in biotech and data scie
 Education
 ======
 * Ph.D. in Computational Biophysics, **University of Toronto**, 2024
-* M.Sc. in Computational Chemistry, **University of Massachusetts**, 2017
+* M.Sc. in Computational Chemistry, **University of Massachusetts Lowell**, 2017
 * B.S. in Applied Mathematics and Physics, **Moscow Institute of Physics and Technology**, 2014
 
 ## Work Experience
