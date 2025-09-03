@@ -11,7 +11,7 @@ redirect_from:
 
 **Biotech R&D - AI/ML - BioPhysicist**
 
-With a PhD in Physics and hands-on industry experience in biotech and healthtech (10+ years of combined experience), I  tackle complex problems, particularly in science, technology, and healthcare. In addition to strong analytical skills, I have extensive experience in data visualization, scientific communication, and mentoring. I’m passionate about contributing to projects that have a positive impact on society.
+With a PhD in Physics and hands-on industry experience in biotech (10+ years of combined experience), I tackle complex problems, particularly in science, technology, and healthcare. In addition to strong analytical skills, I have extensive experience in data visualization, scientific communication, and mentoring. I’m passionate about contributing to projects that have a positive impact on society.
 
 Education
 ======
