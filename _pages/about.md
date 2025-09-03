@@ -18,4 +18,4 @@ I like breaking down technical topics for diverse audiences. I had opportunities
 
 Outside of work, I’m an avid triathlete. You’ll likely find me on the road, track, or in the water training with the [University of Toronto Triathlon Club](https://uofttriathlon.com/).
 
-If you are interested in connecting, please feel free to reach out! [Find my resume](/cv/)
+If you are interested in connecting, please feel free to reach out! Or find my [CV here](/cv/).
