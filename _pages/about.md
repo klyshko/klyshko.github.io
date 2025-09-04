@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi – I’m Eugene. I love solving complex problems at the intersection of science, technology, and healthcare, and I’m happiest when my work benefits society. I'm an ML Scientist at [Fable](https://www.fabletherapeutics.com/), where I apply generative models to design novel antibody-based drugs aimed at improving metabolic health. Before Fable, I worked on *in silico* peptide therapeutics design at [Menten.ai](https://www.menten.ai/) and built tools for AI diagnostics at [Denti.ai](https://www.denti.ai/) and [NeuroopticDx](https://neuroopticdx.com/). 
+Hi – I’m Eugene. I love solving complex problems at the intersection of science, technology, and healthcare – and I’m happiest when my work benefits society. I'm an ML Scientist at [Fable](https://www.fabletherapeutics.com/), where I apply generative models to design novel antibody-based drugs aimed at improving metabolic health. Before Fable, I worked on *in silico* peptide design at [Menten.ai](https://www.menten.ai/) and built tools for AI diagnostics at [Denti.ai](https://www.denti.ai/) and [NeuroopticDx](https://neuroopticdx.com/). 
 
 I hold a PhD in Physics from the University of Toronto (supervisor: [Dr. Sarah Rauscher](https://www.utm.utoronto.ca/cps/faculty-staff/rauscher-sarah)). In my research, I investigated fundamental properties of protein molecules in various environements using molecular simulations, with the goal of better understanding the relationships between protein structure, dynamics and function. That work relied on statistical analysis, machine learning, and high-performance computing for understanding large, time-dependent biological data. You can read more about my [PhD research](/research/) or look through [publications](/publications/).
 
