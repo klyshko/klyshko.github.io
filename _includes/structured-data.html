@@ -1,0 +1,154 @@
+{% include base_path %}
+
+<!-- Structured Data for Academic Website -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "{{ site.author.name }}",
+  "url": "{{ site.url }}{{ site.baseurl }}",
+  "image": "{{ site.author.avatar | prepend: '/images/' | prepend: base_path }}",
+  "description": "{{ site.description }}",
+  "jobTitle": "{{ site.author.bio }}",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "University of Toronto"
+  },
+  "alumniOf": [
+    {
+      "@type": "Organization",
+      "name": "University of Toronto"
+    },
+    {
+      "@type": "Organization", 
+      "name": "University of Massachusetts Lowell"
+    },
+    {
+      "@type": "Organization",
+      "name": "Moscow Institute of Physics and Technology"
+    }
+  ],
+  "sameAs": [
+    {% if site.author.twitter %}"https://twitter.com/{{ site.author.twitter }}",{% endif %}
+    {% if site.author.github %}"https://github.com/{{ site.author.github }}",{% endif %}
+    {% if site.author.googlescholar %}"{{ site.author.googlescholar }}",{% endif %}
+    {% if site.author.orcid %}"{{ site.author.orcid }}",{% endif %}
+    {% if site.author.linkedin %}"{{ site.author.linkedin }}"{% endif %}
+  ]
+}
+</script>
+
+{% if page.collection == 'publications' %}
+<!-- Structured Data for Academic Publication -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": "{{ page.title }}",
+  "description": "{{ page.excerpt | strip_html | strip_newlines | escape }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.author.name }}"
+  },
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ page.venue }}"
+  },
+  {% if page.paperurl %}
+  "url": "{{ page.paperurl | prepend: base_path }}",
+  {% endif %}
+  "citation": "{{ page.citation }}",
+  "keywords": "{{ page.tags | join: ', ' }}",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Computational Biology"
+    },
+    {
+      "@type": "Thing", 
+      "name": "Biophysics"
+    },
+    {
+      "@type": "Thing",
+      "name": "Machine Learning"
+    }
+  ]
+}
+</script>
+{% endif %}
+
+{% if page.collection == 'talks' %}
+<!-- Structured Data for Academic Talk/Presentation -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "PresentationDigitalDocument",
+  "name": "{{ page.title }}",
+  "description": "{{ page.excerpt | strip_html | strip_newlines | escape }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.author.name }}"
+  },
+  "dateCreated": "{{ page.date | date_to_xmlschema }}",
+  {% if page.venue %}
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ page.venue }}"
+  },
+  {% endif %}
+  {% if page.location %}
+  "contentLocation": {
+    "@type": "Place",
+    "name": "{{ page.location }}"
+  },
+  {% endif %}
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Academic Research"
+    },
+    {
+      "@type": "Thing",
+      "name": "{{ page.type | default: 'Conference Presentation' }}"
+    }
+  ]
+}
+</script>
+{% endif %}
+
+{% if page.layout == 'archive' and page.title == 'Publications' %}
+<!-- Structured Data for Publications Collection -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Publications - {{ site.author.name }}",
+  "description": "Academic publications and research papers by {{ site.author.name }}",
+  "url": "{{ page.url | prepend: site.url }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.author.name }}"
+  },
+  "mainEntity": {
+    "@type": "ItemList",
+    "numberOfItems": {{ site.publications.size }},
+    "itemListElement": [
+      {% for pub in site.publications limit: 10 %}
+      {
+        "@type": "ScholarlyArticle",
+        "position": {{ forloop.index }},
+        "name": "{{ pub.title }}",
+        "url": "{{ pub.url | prepend: site.url }}",
+        "datePublished": "{{ pub.date | date_to_xmlschema }}",
+        "author": {
+          "@type": "Person",
+          "name": "{{ site.author.name }}"
+        }
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }
+}
+</script>
+{% endif %}

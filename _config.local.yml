@@ -1,0 +1,31 @@
+# Local development configuration
+# This overrides _config.yml for local testing
+
+# Disable GitHub-specific features
+repository: ""
+github: false
+
+# Local URLs
+url: "http://localhost:4000"
+baseurl: ""
+
+# Disable external services
+analytics:
+  provider: false
+
+# Speed up local builds
+incremental: true
+livereload: true
+
+# Show drafts and future posts
+show_drafts: true
+future: true
+
+# Disable GitHub metadata plugin
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+  # Remove github-metadata for local development
