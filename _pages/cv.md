@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-**Biotech R&D - AI/ML - BioPhysicist**
+**Biotech R&D - AI/ML - Comp Bio**
 
-With a PhD in Physics and hands-on industry experience in biotech (10+ years of combined experience), I tackle complex problems, particularly in science, technology, and healthcare. In addition to strong analytical skills, I have extensive experience in data visualization, scientific communication, and mentoring. I'm passionate about contributing to projects that have a positive impact on society.
+With a PhD in Physics and over 4 years of industry experience in AI and biotech, I am
+committed to advancing science and technological innovation.  I bring strong quantitative skills, paired with a solid track record in scientific communication, data visualization, and mentoring across disciplines. I'm passionate about contributing to projects that have a positive impact on society.
 
 Education
 ======
@@ -21,21 +22,16 @@ Education
 
 ## Work Experience
 
-* **ML Scientist**, [Fable Therapeutics](https://www.fabletherapeutics.com/); Toronto, ON, Canada — Apr 2025 – Now
-    - Coordinating cross-disciplinary (in silico + in vitro) R&D initiatives.
+* **ML Scientist II**, [Fable Therapeutics](https://www.fabletherapeutics.com/); Toronto, ON, Canada — Apr 2025 – Now
+    - Supporting a computational drug design platform in preclinical R&D.
     - Integrating sequence- and structure-based generative models for therapeutic design and optimization.
-    - Supporting a computational drug design platform for preclinical R&D.
-
+    - Coordinating cross-disciplinary (in silico + in vitro) research initiatives.
+    
 * **ML Researcher**, [Neurooptic Dx](https://neuroopticdx.com/); Toronto, ON, Canada — Dec 2024 – Mar 2025
     - Developing computer-vision + time-series models to analyze physiological data.
     - Building a platform for impairment detection and diagnostics of neurological conditions from micro eye movements (patent pending).
-
-* **Graduate Research Assistant**, [University of Toronto](https://rauscher-group.physics.utoronto.ca/); Toronto, ON, Canada — Sept 2017 – Sept 2024
-    - Delivering conference presentations and university lectures on advanced computational physics.
-    - Developing computational and ML pipelines for analysis of protein structural data, resulting in peer-reviewed publications.
-    - Running molecular simulations of complex protein systems (enzymes, cancer proteins) aimed to understand structure-dynamics-function paradigm.
-
-* **AI Researcher**, [Denti.AI](https://www.denti.ai/); Toronto, ON, Canada — Apr 2020 – May 2021
+ 
+* **Junior AI Researcher**, [Denti.AI](https://www.denti.ai/); Toronto, ON, Canada — Apr 2020 – May 2021
     - Building algorithms for projecting 3D computer tomography scans to 2D panoramic images.
     - Developing computer vision models for automated diagnostics from X-ray dental images and heuristic algorithms to improve AI predictions.
 
@@ -43,6 +39,11 @@ Education
     - Benchmarking of classical vs. quantum combinatorial optimization methods for strategic decisions on technology adoption.
     - Implementing GPU-accelerated combinatorial optimization algorithms.
     - Development of an automated pipeline for drug target identification based on protein database.
+
+* **Graduate Research Assistant**, [University of Toronto](https://rauscher-group.physics.utoronto.ca/); Toronto, ON, Canada — Sept 2017 – Sept 2024
+    - Delivering conference presentations and university lectures on advanced computational physics.
+    - Developing computational and ML pipelines for analysis of protein structural data, resulting in peer-reviewed publications.
+    - Running molecular simulations of complex protein systems (enzymes, cancer proteins) aimed to understand structure-dynamics-function paradigm.
 
 * **Graduate Research and Teaching Assistant**, [University of Massachusetts Lowell](https://faculty.uml.edu//vbarsegov/); Lowell, MA, USA — Sept 2015 – May 2017
     - ML analysis of the simulated data to find the critical parameters of the dynamic process.
