@@ -1,0 +1,73 @@
+{% comment %} Map data: join site.data.location_coords to each talk; emit JSON for Leaflet. {% endcomment %}
+<div class="presentations-map-wrap" id="presentations-map-wrap" aria-label="Map of talk and poster locations">
+  <div id="presentation-leaflet-map" class="presentation-leaflet-map" role="img" aria-label="World map of presentation locations"></div>
+  <p class="presentations-map-note">A map of in-person talks, posters, and presentations. <span class="presentations-map-note--muted">Click a marker to open the corresponding presentation entry.</span></p>
+</div>
+<script type="application/json" id="presentation-geojson-items">
+[{%- assign need_comma = false -%}
+{%- for post in site.talks reversed -%}
+{%- assign coord = nil -%}
+{%- for row in site.data.location_coords -%}
+{%- if row.match == post.location -%}{%- assign coord = row -%}{%- endif -%}
+{%- endfor -%}
+{%- if coord and coord.skip != true -%}
+{%- if need_comma -%},{%- endif -%}{%- assign need_comma = true -%}
+{"url":{{ post.url | relative_url | jsonify }},"title":{{ post.title | jsonify }},"type":{{ post.type | jsonify }},"date":{{ post.date | date: "%Y-%m-%d" | jsonify }},"location":{{ post.location | jsonify }},"lat":{{ coord.lat }},"lon":{{ coord.lon }}}
+{%- endif -%}
+{%- endfor -%}]
+</script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script>
+(function() {
+  var el = document.getElementById('presentation-geojson-items');
+  if (!el) return;
+  var items;
+  try { items = JSON.parse(el.textContent.trim()); } catch (e) { return; }
+  if (!items || !items.length) {
+    document.getElementById('presentations-map-wrap').classList.add('presentations-map-wrap--empty');
+    return;
+  }
+  var groups = {};
+  items.forEach(function(p) {
+    var k = p.lat.toFixed(3) + ',' + p.lon.toFixed(3);
+    if (!groups[k]) groups[k] = [];
+    groups[k].push(p);
+  });
+  Object.keys(groups).forEach(function(k) {
+    var g = groups[k];
+    if (g.length === 1) return;
+    var step = 0.014;
+    g.forEach(function(p, j) {
+      var ang = (2 * Math.PI * j) / g.length;
+      p.lat += step * Math.sin(ang);
+      p.lon += step * Math.cos(ang);
+    });
+  });
+  var map = L.map('presentation-leaflet-map', { scrollWheelZoom: false, minZoom: 1, worldCopyJump: true });
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+    subdomains: 'abcd',
+    maxZoom: 20,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" rel="noreferrer">OpenStreetMap</a> ' +
+      '&copy; <a href="https://carto.com/attributions" rel="noreferrer">CARTO</a>'
+  }).addTo(map);
+  var acc = (getComputedStyle(document.documentElement).getPropertyValue('--iso-accent') || '#132d56').trim() || '#132d56';
+  var bounds = [];
+  items.forEach(function(p) {
+    var cm = L.circleMarker([p.lat, p.lon], {
+      radius: 9,
+      color: '#ffffff',
+      weight: 2,
+      fillColor: acc,
+      fillOpacity: 0.95
+    }).addTo(map);
+    var esc = function(s) { return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'&quot;'); };
+    cm.bindTooltip(esc(p.title) + (p.date ? ' (' + p.date + ')' : ''), { direction: 'top' });
+    cm.on('click', function() { window.location.assign(p.url); });
+    bounds.push([p.lat, p.lon]);
+  });
+  if (bounds.length) {
+    map.fitBounds(bounds, { padding: [40, 40], maxZoom: 4 });
+  }
+})();
+</script>

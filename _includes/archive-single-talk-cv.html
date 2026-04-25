@@ -34,7 +34,11 @@
       {% endif %}
     </h3>
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{post.type}} at {{ post.venue }},  {{post.location}}</p>{% endif %}
+    {% if post.list_summary %}
+    <p class="archive__item-excerpt" itemprop="description"><span class="talk-cv__meta">{{ post.type }} · {{ post.date | date: "%Y" }} · {{ post.venue }}{% if post.location %}, {{ post.location }}{% endif %}</span> — {{ post.list_summary }}{% if post.poster_url %} <a href="{{ base_path }}{{ post.poster_url }}">{% if post.poster_url contains '.pdf' %}[PDF]{% elsif post.poster_url contains '.png' %}[PNG]{% elsif post.poster_url contains '.jpg' or post.poster_url contains '.jpeg' or post.poster_url contains '.webp' %}[image]{% else %}[file]{% endif %}</a>{% endif %}</p>
+    {% elsif post.venue %}
+    <p class="archive__item-excerpt" itemprop="description">{{ post.type }} at {{ post.venue }}, {{ post.location }}</p>
+    {% endif %}
     </li>
   </article>
 </div>

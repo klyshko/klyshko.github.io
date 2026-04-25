@@ -14,6 +14,16 @@ redirect_from:
 With a PhD in Physics and over 4 years of industry experience in AI and biotech, I am
 committed to advancing science and technological innovation.  I bring strong quantitative skills, paired with a solid track record in scientific communication, data visualization, and mentoring across disciplines. I'm passionate about contributing to projects that have a positive impact on society.
 
+Skills
+======
+- **Programming:** Python, C/C++, NumPy, Pandas
+- **Machine Learning:** PyTorch, scikit-learn, computer vision, active learning, diffusion models, large language models
+- **Protein Modeling and Design:** protein language models (ESM2), structure prediction models (AlphaFold, OpenFold, Boltz), inverse folding models (ProteinMPNN), protein design workflows (RFdiffusion, BindCraft), BioEmu
+- **Drug Discovery Applications:** antibody design, molecular property prediction, developability assessment, docking, in silico screening
+- **Computational Biology and Biophysics:** molecular dynamics simulations, enhanced sampling, free energy calculations, GROMACS, ChimeraX, VMD, BioPython, MDAnalysis
+- **Parallel and Scientific Computing:** CUDA, MPI, OpenMP, statistics, linear algebra, graph analysis, statistical physics
+- **MLOps and Research Infrastructure:** AWS, Git, JIRA/Asana, experiment tracking (W&B), workflow automation, research tooling
+
 Education
 ======
 * Ph.D. in Computational Biophysics, **University of Toronto**, 2024
@@ -23,19 +33,21 @@ Education
 ## Work Experience
 
 * **ML Scientist II**, [Fable Therapeutics](https://www.fabletherapeutics.com/); Toronto, ON, Canada — Apr 2025 – Now
-    - Supporting a computational drug design platform in preclinical R&D.
-    - Integrating sequence- and structure-based generative models for therapeutic design and optimization.
-    - Coordinating cross-disciplinary (in silico + in vitro) research initiatives.
+    - Develop and apply machine learning for antibody design and property optimization, including protein language models, structure-prediction and generative models, and active learning.
+    - Lead computational work that supports candidate screening, developability assessment, and hypothesis generation in preclinical discovery.
+    - Build and maintain discovery platform infrastructure—workflow automation, research tooling, and production pipeline improvements.
+    - Partner with experimental scientists and cross-functional teams on library design, in vitro result interpretation, and data-driven decision-making.
     
-* **ML Researcher**, [Neurooptic Dx](https://neuroopticdx.com/); Toronto, ON, Canada — Dec 2024 – Mar 2025
-    - Developing computer-vision + time-series models to analyze physiological data.
-    - Building a platform for impairment detection and diagnostics of neurological conditions from micro eye movements (patent pending).
- 
-* **Junior AI Researcher**, [Denti.AI](https://www.denti.ai/); Toronto, ON, Canada — Apr 2020 – May 2021
+* **ML Researcher**, [Neurooptic Dx](https://neuroopticdx.com/); Toronto, ON, Canada — Sep 2024 – Mar 2025
+    - Contract-based consulting.
+    - Developed computer-vision and time-series models on facial video and micro eye movement data to estimate intoxication and impairment (patent pending).
+    - Managed three junior developers in building a machine learning pipeline for neurodiagnostic research.
+
+* **Junior AI Researcher**, [Denti.AI](https://www.denti.ai/); Toronto, ON, Canada — Apr 2020 – Apr 2021
     - Building algorithms for projecting 3D computer tomography scans to 2D panoramic images.
     - Developing computer vision models for automated diagnostics from X-ray dental images and heuristic algorithms to improve AI predictions.
 
-* **Research Intern**, [Menten.AI](https://www.menten.ai/); Toronto, ON, Canada — Dec 2019 – Dec 2020
+* **Research Intern**, [Menten.AI](https://www.menten.ai/); San Francisco, CA (Remote) — Dec 2019 – Dec 2020
     - Benchmarking of classical vs. quantum combinatorial optimization methods for strategic decisions on technology adoption.
     - Implementing GPU-accelerated combinatorial optimization algorithms.
     - Development of an automated pipeline for drug target identification based on protein database.
@@ -52,15 +64,6 @@ Education
 * **Research Assistant**, [Moscow Institute of Physics and Technology](https://mipt.ru/english/research/labs/computer-and-mathematical-modelling-of-biological-systems-lab); Moscow, Russia — Sept 2014 – May 2015
     - Bioinformatics analysis of protein databases to extract clusters of protein contacts.
     - Developing multiscale computational models of fibrin oligomers.
-
-Skills
-======
-- _Programming_: Python, NumPy, C/C++, Parallel Computing (CUDA, MPI, OpenMP)
-- _Biotechnologies_: Protein Language Models, AlphaFold, Molecular Dynamics Simulations, Rosetta, GROMACS, ChimeraX, VMD, BioPython, MDAnalysis
-- _Machine Learning_: PyTorch, scikit-learn, Computer Vision, W&B, Data Visualization, Pandas
-- _Quantum Computing_: Quantum Annealer (D-Wave), Quantum Circuit (PennyLane)
-- _Quantitative Skills_: Statistics, Linear Algebra, Graph analysis, Statistical Physics
-- _Others_: Cloud Computing (ComputeCanada, AWS), Git, JIRA, Project Management, Mentoring, Scientific Communication
 
 Publications
 ======

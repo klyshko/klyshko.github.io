@@ -1,1 +1,12 @@
-
+{% if site.visitor_hits != false %}
+<div class="page__footer-visitor" aria-label="Site traffic">
+  <a href="https://hits.seeyoufarm.com" rel="noopener nofollow" class="page__footer-visitor__badge" title="All-time page views (seeyoufarm hit counter)">
+    <img
+      src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fklyshko.github.io&count_bg=%23132d56&title_bg=%230e2240&title=visitors&icon=&icon_color=%23E7E7E7&edge_flat=false"
+      width="100"
+      height="20"
+      alt="Site visitor count (badge)"
+    />
+  </a>
+</div>
+{% endif %}

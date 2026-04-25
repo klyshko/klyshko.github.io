@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Presentations"
+permalink: /presentations/
+author_profile: true
+---
+
+{% include presentations-map.html %}
+
+<p class="presentations-list-intro">Talks and poster sessions (and related appearances), most recent first.</p>
+
+<div class="presentations-list">
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+</div>

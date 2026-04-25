@@ -1,0 +1,43 @@
+# City/region coordinates for the "location" field in _talks/*.md (one row per exact string in YAML).
+# Used by the Presentations page map. Add a row when you add a talk in a new place.
+# skip: true = no point (e.g. online-only)
+#
+- match: "San Diego, CA, USA"
+  lat: 32.7157
+  lon: -117.1611
+- match: "Toronto, ON, Canada"
+  lat: 43.6532
+  lon: -79.3832
+- match: "Mississauga, ON, Canada"
+  lat: 43.5890
+  lon: -79.6441
+# legacy spelling in one older talk; keep both keys
+- match: "Mississauga, Ontario, Canada"
+  lat: 43.5890
+  lon: -79.6441
+- match: "Montreal, QC, Canada"
+  lat: 45.5017
+  lon: -73.5673
+- match: "Ottawa, ON, Canada"
+  lat: 45.4215
+  lon: -75.6972
+- match: "Cambridge MA, USA"
+  lat: 42.3736
+  lon: -71.1097
+- match: "Baltimore MD, USA"
+  lat: 39.2904
+  lon: -76.6122
+- match: "Kobe, Japan"
+  lat: 34.6901
+  lon: 135.1955
+- match: "Atlanta, GA, USA"
+  lat: 33.7756
+  lon: -84.3963
+- match: "Vancouver, BC, Canada"
+  lat: 49.2827
+  lon: -123.1207
+- match: "Calgary, AB, Canada"
+  lat: 51.0447
+  lon: -114.0719
+- match: "Online (Canada)"
+  skip: true
