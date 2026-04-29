@@ -1,5 +1,5 @@
 (function () {
-  var MOBILE_MAX = 640;
+  var MOBILE_MAX = 768;
   var nav = document.getElementById("site-nav");
   var burger = document.getElementById("site-nav-burger");
   if (!nav || !burger) return;

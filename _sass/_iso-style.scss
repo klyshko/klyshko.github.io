@@ -159,7 +159,7 @@ a::after {
 .page__content a:not(.iso-btn):not(.iso-section__links a):not(.iso-contact__links a) {
   color: var(--iso-accent) !important;
   text-decoration: underline !important;
-  text-decoration-color: rgba(13, 148, 136, 0.3) !important;
+  text-decoration-color: rgba(19, 45, 86, 0.35) !important;
   text-underline-offset: 3px !important;
   background: none !important;
   background-size: unset !important;
@@ -327,7 +327,7 @@ a::after {
 }
 
 /* Greedy overflow toggle: hidden; mobile menu uses .site-nav__burger instead */
-$site-nav-mobile-max: 640px;
+$site-nav-mobile-max: 768px;
 
 .greedy-nav__toggle {
   display: none !important;
