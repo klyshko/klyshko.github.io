@@ -20,6 +20,7 @@ breadcrumbs              : false
 words_per_minute         : 200
 future                   : true
 read_more                : "disabled"
+# Legacy: map now lives on /presentations/ (kept for old templates)
 talkmap_link             : false
 atom_feed:
   path                   : # blank (default) uses feed.xml
@@ -28,6 +29,8 @@ atom_feed:
 analytics:
   provider               : false
 
+# Public hit/visitor badge in footer (seeyoufarm; counts https://klyshko.github.io)
+visitor_hits: true
 
 # Site Author
 author:
@@ -57,6 +60,7 @@ exclude:
   - _config.local.yml
   - node_modules
   - vendor
+  - scripts
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor

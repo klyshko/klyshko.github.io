@@ -1,5 +1,8 @@
-{% if site.url %}
-  {% assign base_path = site.url | append: site.baseurl %}
-{% else %}
-  {% assign base_path = site.github.url %}
-{% endif %}
+{% comment %}
+  Path prefix only (site.baseurl), never the full site.url hostname.
+  Prepend this to paths like {{ base_path }}/assets/... or use with href="{{ base_path }}/foo".
+  With baseurl "" (typical user/org GitHub Pages), links stay root-relative (/presentations/, etc.)
+  so they work on http://127.0.0.1:4000/ during jekyll serve as well as on the live domain.
+  Using site.url here would force every internal link to https://klyshko.github.io/... even locally.
+{% endcomment %}
+{% assign base_path = site.baseurl | default: "" %}

@@ -13,8 +13,9 @@ baseurl: ""
 analytics:
   provider: false
 
-# Speed up local builds
-incremental: true
+# Use full rebuilds locally: `incremental: true` is faster but often skips
+# regenerating archive pages (e.g. /talks/) when new collection files are added.
+incremental: false
 livereload: true
 
 # Show drafts and future posts

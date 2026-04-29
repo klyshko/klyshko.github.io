@@ -25,7 +25,7 @@ The site uses a clean, modern aesthetic inspired by [Isomorphic Labs](https://ww
 
 - **Typography:** Inter font, light weight (300) for a thin, elegant look
 - **Layout:** Sticky left sidebar on desktop, compact top bar on mobile
-- **Accent color:** Green (`#0d9488`) used consistently for borders, links, and highlights
+- **Accent color:** Navy blue (`#132d56`) used consistently for borders, links, and highlights
 - **Cards:** Research topics and methods displayed as styled card blocks
 
 Originally forked from [academicpages](https://github.com/academicpages/academicpages.github.io) (based on [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)), then heavily customized.
