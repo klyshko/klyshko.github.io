@@ -68,7 +68,7 @@ $dark-text-color            : #e0e0e0;
 $dark-border-color          : #333;
 $dark-code-background       : #2d2d2d;
 
-$primary-color              : #7a8288;
+$primary-color              : #132d56;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
@@ -98,12 +98,12 @@ $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
 
-/* links */
-$link-color                 : mix($info-color2, $info-color, 50%);
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
+/* links (navy; iso-style overrides many, but defaults survive in some components) */
+$link-color                 : #132d56;
+$link-color-hover           : #0e2240;
+$link-color-visited         : mix(#fff, $link-color, 20%);
 $masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color-hover  : $link-color-hover;
 
 
 /*

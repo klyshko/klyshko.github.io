@@ -29,7 +29,7 @@ atom_feed:
 analytics:
   provider               : false
 
-# Public hit/visitor badge in footer (seeyoufarm; counts https://klyshko.github.io)
+# Public hit/visitor badge in footer (hitscounter.dev; counts https://klyshko.github.io)
 visitor_hits: true
 
 # Site Author

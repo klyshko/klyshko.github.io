@@ -66,8 +66,20 @@
     cm.on('click', function() { window.location.assign(p.url); });
     bounds.push([p.lat, p.lon]);
   });
-  if (bounds.length) {
-    map.fitBounds(bounds, { padding: [40, 40], maxZoom: 4 });
+  function fitOrInvalidate() {
+    try {
+      map.invalidateSize();
+      if (bounds.length) {
+        map.fitBounds(bounds, { padding: [40, 40], maxZoom: 4 });
+      }
+    } catch (err) {}
   }
+  map.whenReady(function() {
+    requestAnimationFrame(function() {
+      fitOrInvalidate();
+      requestAnimationFrame(fitOrInvalidate);
+    });
+  });
+  window.addEventListener('load', fitOrInvalidate);
 })();
 </script>
