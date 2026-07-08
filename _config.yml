@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Eugene Klyshko"
 title_separator          : "-"
 name                     : &name "Eugene Klyshko"
-description              : &description "ML Scientist applying generative AI to antibody drug design"
+description              : &description "ML Scientist applying AI to protein therapeutic design"
 url                      : https://klyshko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "klyshko/klyshko.github.io"
@@ -35,7 +35,7 @@ visitor_hits: true
 # Site Author
 author:
   name             : "Eugene Klyshko"
-  avatar           : "IMG_7658.jpg"
+  avatar           : "eugene-klyshko-portrait.png"
   bio              : "ML Scientist in biotech"
   location         : "Toronto, Canada"
   googlescholar    : "https://scholar.google.com/citations?user=TyK96I4AAAAJ&hl=en"
