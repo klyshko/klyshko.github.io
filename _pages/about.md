@@ -10,13 +10,19 @@ redirect_from:
 ---
 
 <div class="iso-hero">
-  <img src="/images/IMG_7658.jpg" alt="Eugene Klyshko" class="iso-hero__photo" />
-  <div class="iso-hero__greeting">Hi, I'm Eugene</div>
-  <h1 class="iso-hero__title">Solving complex problems at the intersection of science, technology &amp; healthcare.</h1>
-  <p class="iso-hero__subtitle">I'm a machine learning scientist at <a href="https://fabletherapeutics.com/">Fable Therapeutics</a>, where I help design new antibody-based medicines for people with metabolic disease.</p>
-  <div class="iso-hero__links">
-    <a href="/cv/" class="iso-btn">View CV</a>
-    <a href="/publications/" class="iso-btn iso-btn--outline">Publications</a>
+  <div class="iso-hero__panel">
+    <div class="iso-hero__copy">
+      <img src="/images/eugene-klyshko-portrait.png" alt="Eugene Klyshko" class="iso-hero__photo" />
+      <h1 class="iso-hero__title">Hi, I am Eugene and I like to solve complex problems at the intersections of science, technology &amp; healthcare.</h1>
+      <p class="iso-hero__subtitle">I'm an ML Scientist II at <a href="https://www.grovebiopharma.com/">Grove Biopharma</a>, where I work on designing protein-based therapeutics to treat cancer.</p>
+      <div class="iso-hero__links">
+        <a href="/cv/" class="iso-btn">View CV</a>
+        <a href="/publications/" class="iso-btn iso-btn--outline">Publications</a>
+      </div>
+    </div>
+    <figure class="iso-hero__visual">
+      <img src="/images/peptide_design.png" alt="Computationally designed protein therapeutic concept" />
+    </figure>
   </div>
 </div>
 
@@ -27,9 +33,8 @@ redirect_from:
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a5 5 0 0 1 5 5c0 2.76-2.24 5-5 5s-5-2.24-5-5a5 5 0 0 1 5-5z"/><path d="M3 22c0-4.97 4.03-9 9-9s9 4.03 9 9"/><circle cx="18" cy="8" r="3"/></svg>
   Current Role
 </div>
-<h2>ML Scientist at a biotech startup</h2>
-<p>At <a href="https://fabletherapeutics.com/">Fable</a>, I develop and apply machine learning methods for antibody design and property optimization. My tools include anything from protein language and structure prediction models to generative models and active learning. I run analyses that support candidate screening, developability assessment, and finding sequence-functional relationship in preclinical discovery. Additionally, I help build the underlying platform: workflow automation, research tools, and production pipelines.</p>
-<p>I work closely with experimental scientists and project partners on library design, experiment interpretation, and data-driven decision-making, connecting in silico and in vitro R&amp;D.</p>
+<h2>ML Scientist II at <a href="https://www.grovebiopharma.com/">Grove Biopharma</a></h2>
+<p>At Grove Biopharma, I use machine learning and computational protein design to help develop protein-based therapeutics to treat cancer. My work connects model-driven design, experimental feedback, and practical discovery decisions.</p>
 </div>
 
 <div class="iso-section">
@@ -38,8 +43,8 @@ redirect_from:
   Industry experience
 </div>
 <h2>Biotech &amp; AI diagnostics in healthcare</h2>
-<p>Before Fable, I worked on computational peptide design at drug-discovery startup <a href="https://www.menten.ai/">Menten.ai</a>.</p>
-<p>I also built computer vision and machine learning tools for diagnostics. At <a href="https://www.denti.ai/">Denti.ai</a>, I developed models for dental X-ray analysis and dental pathology detections. At <a href="https://neuroopticdx.com/">NeuroopticDx</a>, I worked on computer-vision and time-series models for facial video and micro eye movement data, focused on neuro-diagnostic research.</p>
+<p>Before Grove acquired my team, I was an ML Scientist II at <a href="https://fabletherapeutics.com/">Fable Therapeutics</a>, where I worked on de novo antibody design and property optimization. Earlier, I worked on computational peptide design at drug-discovery startup <a href="https://www.menten.ai/">Menten.ai</a>.</p>
+<p>I also built computer vision and machine learning tools for diagnostics in healthcare. At <a href="https://www.denti.ai/">Denti.ai</a>, I developed models for dental X-ray analysis and dental pathology detection. At <a href="https://neuroopticdx.com/">NeuroopticDx</a>, I worked on computer-vision and time-series models for facial video and micro eye movement data, focused on neuro-diagnostic research.</p>
 </div>
 
 <div class="iso-section">

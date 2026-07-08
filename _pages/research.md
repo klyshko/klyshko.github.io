@@ -6,11 +6,17 @@ author_profile: true
 redirect_from: 
   - "/research.html"
 ---
-## Thesis focus
-
-On my PhD journey to unravel the mysteries of how proteins function and regulate their activities, I've focused on a critical yet often overlooked component — **water**. Water is not just a passive bystander in the world of proteins; water molecules form hydration shells around proteins and even integrate into their interiors, influencing everything from protein stability to functional behaviour. In my research, I've developed advanced computational methods that demonstrate the critical role of water in protein allostery, which is supported by experimental techniques like time-resolved X-ray crystallography and NMR spectroscopy.
-
-<img src="/images/water_allostery.png" alt="water allostery" width="400px" style="display:block; margin:1.5rem auto; border-radius:10px;">
+<div class="iso-hero iso-hero--research">
+  <div class="iso-hero__panel iso-hero__panel--contained">
+    <div class="iso-hero__copy">
+      <h1 class="iso-hero__title">Research on protein dynamics, water networks &amp; molecular allostery.</h1>
+      <p class="iso-hero__subtitle">On my PhD journey to unravel how proteins function and regulate their activities, I focused on a critical yet often overlooked component: water. I developed computational methods showing how hydration shells and internal water molecules influence protein stability, dynamics, and allosteric communication.</p>
+    </div>
+    <figure class="iso-hero__visual iso-hero__visual--contained">
+      <img src="/images/water_allostery.png" alt="Water-mediated allostery illustration" />
+    </figure>
+  </div>
+</div>
 
 <div class="iso-sections">
 
