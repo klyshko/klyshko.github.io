@@ -9,10 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-**Biotech R&D - AI/ML - Comp Bio**
-
-With a PhD in Physics and over 4 years of industry experience in AI and biotech, I am
-committed to advancing science and technological innovation.  I bring strong quantitative skills, paired with a solid track record in scientific communication, data visualization, and mentoring across disciplines. I'm passionate about contributing to projects that have a positive impact on society.
+<div class="iso-hero iso-hero--cv">
+  <div class="iso-hero__panel iso-hero__panel--contained">
+    <div class="iso-hero__copy">
+      <h1 class="iso-hero__title">Biotech R&amp;D - AI/ML - Comp Bio</h1>
+      <p class="iso-hero__subtitle">With a PhD in Physics and over 4 years of industry experience in AI and biotech, I am committed to advancing science and technological innovation. I bring strong quantitative skills, paired with a solid track record in scientific communication, data visualization, and mentoring across disciplines. I'm passionate about contributing to projects that have a positive impact on society.</p>
+    </div>
+  </div>
+</div>
 
 Skills
 ======
@@ -32,7 +36,11 @@ Education
 
 ## Work Experience
 
-* **ML Scientist II**, [Fable Therapeutics](https://www.fabletherapeutics.com/); Toronto, ON, Canada — Apr 2025 – Now
+* **ML Scientist II**, [Grove Biopharma](https://www.grovebiopharma.com/); Toronto, ON, Canada — May 2026 – Now
+    - Apply machine learning and computational protein design to support discovery of protein-based therapeutics to treat cancer.
+    - Work with experimental and cross-functional teams to connect model-driven design with discovery decisions.
+
+* **ML Scientist II**, [Fable Therapeutics](https://www.fabletherapeutics.com/); Toronto, ON, Canada — Apr 2025 – May 2026
     - Develop and apply machine learning for antibody design and property optimization, including protein language models, structure-prediction and generative models, and active learning.
     - Lead computational work that supports candidate screening, developability assessment, and hypothesis generation in preclinical discovery.
     - Build and maintain discovery platform infrastructure—workflow automation, research tooling, and production pipeline improvements.
